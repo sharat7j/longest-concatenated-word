@@ -39,3 +39,5 @@ word made up of other words in the list.  The program should then
 go on to report how many of the words in the list can be constructed
 
 of other words in the list.
+To run the code in eclipse, the memory allocation for the virtual machine should be increased.A safe value would be 
+around 512 MB. 
